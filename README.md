@@ -1,8 +1,15 @@
 # dota-clusters
 
-![Image of Dota2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dota2.com%2Fplay%2F&psig=AOvVaw1Jo1ON8G7R8Ai_xVeHMDKd&ust=1588267272869000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjK_eaSjukCFQAAAAAdAAAAABAD)
-![Image of a Clustering](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/EM-Gaussian-data.svg/186px-EM-Gaussian-data.svg.png)
-
+<div>
+<div align="center">
+    <img src="./imgs/dotaImg.jpg"
+         alt="Image of Dota2"
+         width="250" height="200" border="10" />
+    <img src="./imgs/clusteringImg.png"
+         alt="Image of Clustering"
+         width="250" height="250" border="10" />
+</div>
+</div>
 
 Back when learning about the work my dad does, I was super interested in Dota. Combining these two topics into a fun learning scenario, he compiled all the heroes by stats, and ran a hierarchical clustering to group them by closest stat compositions. I absolutely loved this visualization, and felt like I understood his work that much better.
 
@@ -24,3 +31,7 @@ Because this is a way to dive deeper into a tech stack, early ideas for this pro
 * Docker for environmental setup
 * PostgreSQL for database purposes
 * [Still choosing my machine learning tech]
+
+## Next Steps
+* Solidify tech stack
+* Get wiki web scraping working
