@@ -1,6 +1,10 @@
 # dota-clusters
 
-Back when learning about the work my dad does, I was super interested in Dota. Combining these two topics into a fun learning scenario, he compiled all the heroes by stats, and paired them by closest stat compositions. I absolutely loved this visualization, and felt like I understood his work that much better.
+![Image of Dota2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dota2.com%2Fplay%2F&psig=AOvVaw1Jo1ON8G7R8Ai_xVeHMDKd&ust=1588267272869000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjK_eaSjukCFQAAAAAdAAAAABAD)
+![Image of a Clustering](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/EM-Gaussian-data.svg/186px-EM-Gaussian-data.svg.png)
+
+
+Back when learning about the work my dad does, I was super interested in Dota. Combining these two topics into a fun learning scenario, he compiled all the heroes by stats, and ran a hierarchical clustering to group them by closest stat compositions. I absolutely loved this visualization, and felt like I understood his work that much better.
 
 This project is an homage to this first exposure to clustering tools. I still have a passion for gaming, and want to combine this passion with technologies I want to dive deeper into. 
 
