@@ -1,6 +1,5 @@
 # dota-clusters
 
-<div>
 <div align="center">
     <img src="./imgs/dotaImg.jpg"
          alt="Image of Dota2"
@@ -8,7 +7,6 @@
     <img src="./imgs/clusteringImg.png"
          alt="Image of Clustering"
          width="250" height="250" border="10" />
-</div>
 </div>
 
 Back when learning about the work my dad does, I was super interested in Dota. Combining these two topics into a fun learning scenario, he compiled all the heroes by stats, and ran a hierarchical clustering to group them by closest stat compositions. I absolutely loved this visualization, and felt like I understood his work that much better.
@@ -29,9 +27,21 @@ Ever wanted to create your own hero?  Here's your chance!  Using hero data from 
 Because this is a way to dive deeper into a tech stack, early ideas for this project are as follows:
 * Python as main dev environment
 * Docker for environmental setup
-* PostgreSQL for database purposes
-* [Still choosing my machine learning tech]
+* Pandas for dataframe
+* Jupyter for visualiations
+* Scikit for KMeans
+* (Still deciding for potential web vs. jupyter presentation of visuals)
+
+## Architectures/Workflows
+<div align="left">
+    <img src="./imgs/gettingData.png"
+         alt="Architecture for initially scraping data"
+         width="400" height="400" border="10" />
+    <img src="./imgs/kMeans.png"
+         alt="Workflow for Kmeans"
+         width="400" height="400" border="10" />
+</div>
 
 ## Next Steps
 * Solidify tech stack
-* Get wiki web scraping working
+* Begin learning scikit learn for training
