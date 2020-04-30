@@ -26,20 +26,24 @@ Ever wanted to create your own hero?  Here's your chance!  Using hero data from 
 ## Tech Stack
 Because this is a way to dive deeper into a tech stack, early ideas for this project are as follows:
 * Python as main dev environment
-* Docker for environmental setup
+* Docker for containerization
 * Pandas for dataframe
 * Jupyter for visualiations
 * Scikit for KMeans
 * (Still deciding for potential web vs. jupyter presentation of visuals)
 
-## Architectures/Workflows
+## Architecture/Workflow
 <div align="left">
-    <img src="./imgs/gettingData.png"
-         alt="Architecture for initially scraping data"
-         width="400" height="400" border="10" />
-    <img src="./imgs/kMeans.png"
-         alt="Workflow for Kmeans"
-         width="400" height="400" border="10" />
+    <div>
+        <img src="./imgs/gettingData.png"
+             alt="Architecture for initially scraping data"
+             width="500" height="500" border="10" />
+    </div>
+    <div>
+        <img src="./imgs/kMeans.png"
+             alt="Workflow for Kmeans"
+             width="500" height="500" border="10" />
+    </div>
 </div>
 
 ## Next Steps
