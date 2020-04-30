@@ -1,5 +1,5 @@
 # Python 3.6.7
-FROM python:3.6.7-alpine3.6
+FROM python:3
 
 # author of file
 LABEL maintainer="Andrew Pollack <andrewpkq@gmail.com>"
