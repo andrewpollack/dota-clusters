@@ -53,4 +53,4 @@ def getHeroDataframe():
 
 
 hero_df = getHeroDataframe()
-print(hero_df)
+hero_df.to_csv('hero_stats.csv', index = False)
